@@ -141,6 +141,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [LauraAllObe](https://github.com/LauraAllObe/LauraAllObe)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -276,7 +277,6 @@
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
-- [WakaTime IDE Coding Time Stats](https://github.com/LauraAllObe/wakatimeReadmeStats) - Dynamically generated WakaTime coding stats for your README: heatmaps, ranks, weekly coding time, repos, languages, and more.
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
